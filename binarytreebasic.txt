@@ -1,0 +1,8 @@
+->Binary tree is a tree which has atmost two childreen
+(a)full binary tree=> either 0 or 2 childreen
+(b)complete BT=> all levels are completey filled except the last level and the last level has all nodes m left as poosible
+(c) perfect BT=> all leaf nodes are at same level
+(d) balanced BT=>height of the tree at max log(n)
+(e) degenerate BT=> skewed tree or in linkedlist form or every node have a single child
+
+
